@@ -23,7 +23,6 @@ certifi==2019.11.28
 cffi==1.14.5
 chardet==3.0.4
 chatbot==1.5.2b0
-ChatterBot==1.0.8
 click==7.1.2
 cloudpickle==1.3.0
 colorama==0.4.4
