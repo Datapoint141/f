@@ -219,7 +219,6 @@ srsly==1.0.5
 statsmodels==0.12.1
 style==1.1.0
 tensorboard==1.14.0
-tensorflow @ file:///F:/Project%20Softwares/Python%20Software/Tensorflow/sse2/tensorflow-1.14.0-cp37-cp37m-win_amd64.whl
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.9.2
